@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Foundation Team",
+    "members": [
+      
+      {
+        "name": "",
+        "first_name":"GEORGE NGUYEN",
+        "photoUrl": "/images/people/gdg-george.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "",
+            "name": "Twitter"
+          },
+          {
+            "icon": "website",
+            "link": "",
+            "name": "Blog"
+          }
+        ],
+        "title": "Founder and Manager of GDG Vietnam"
+      },
+      {
+        "name": "LE HUYNH",
+        "first_name":"KIM NGAN",
+        "photoUrl": "/images/people/gdg-kim-ngan.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Co-Founder and Manager of GDG Vietnam"
+      },
+      
+      {
+        "name": "LE THANH",
+        "first_name": "HUNG",
+        "photoUrl": "/images/people/gdg-thanh-hung.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Co-Founder and Manager of GDG Hanoi"
+      },
+      {
+        "name": "NGUYEN BA",
+        "first_name": "NGOC",
+        "photoUrl": "/images/people/gdg-ba-ngoc.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Founder and Manager of GDG Hanoi"
+      },
+      {
+        "name": "NGUYEN PHUONG",
+        "first_name": "NHI",
+        "photoUrl": "/images/people/gdg-phuong-nhi.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Founder and Manager of GDG Mien Trung"
+      },
+      {
+        "name": "TRAN HUYNH",
+        "first_name": "TAN VU",
+        "photoUrl": "/images/people/gdg-tan-vu.png",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Event Coordinator of GDG Vietnam"
+      },
+      {
+        "name": "NGUYEN VUONG",
+        "first_name": "ANH VY",
+        "photoUrl": "/images/people/gdg-anh-vy.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "",
+            "name": "Google+"
+          },
+          {
+            "icon": "website",
+            "link": "http://vanhensy.com",
+            "name": "Blog"
+          },
+          {
+            "icon": "twitter",
+            "link": "",
+            "name": "Twitter"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://facebook.com/anhvy.nv",
+            "name": "Facebook"
+          }
+        ],
+        "title": "Technical Manager of GDG Vietnam"
+      }
+    ]
+  }  
+]

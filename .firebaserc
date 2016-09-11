@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "devfest-b2f16",
+    "default": "devfest-b2f16"
+  }
+}

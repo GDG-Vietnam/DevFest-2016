@@ -1,0 +1,244 @@
+{
+  "pages": {
+    "home": {
+      "headerSettings": {
+        "backgroundColor": "#FF9800",
+        "backgroundImage": "/images/backgrounds/home.png",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff",
+        
+        "hideLogo": true,
+        "minHeight": "360px"
+      }
+    },
+    "blog": {
+      "headerSettings": {
+        "backgroundColor": "#03a9f4",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "speakers": {
+      "headerSettings": {
+        "backgroundColor": "#3f51b5",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "schedule": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "team": {
+      "headerSettings": {
+        "backgroundColor": "#009688",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    },
+    "cod": {
+      "headerSettings": {
+        "backgroundColor": "#673ab7",
+        "fontColor": "#fff",
+        "tabBarColor": "#fff"
+      }
+    }
+  },
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/"
+    }
+  ],
+  "url": "https://hoverboard.firebaseapp.com/",
+  "mailchimp": {
+    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
+    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
+  },
+  "partnershipProposition": "http://bit.ly/df16-sponsor",
+  "disqusShortName": "hoverboard-gdg-x",
+  "languages": [
+    {
+      "name": "English",
+      "key": "en"
+    },
+    {
+      "name": "Tiếng việt",
+      "key": "vi"
+    }
+  ],
+  "footerBlocks": [
+    {
+      "title": "for-visitors",
+      "links": [
+        {
+          "text": "google-developers",
+          "url": "https://developers.google.com/",
+          "newTab": true
+        },
+        {
+          "text": "gdg-vietnam",
+          "url": "https://www.facebook.com/gdgviet",
+          "newTab": true
+        },
+        {
+          "text": "gdg-danang",
+          "url": "https://www.facebook.com/Gdgmientrung",
+          "newTab": true
+        },
+        {
+          "text": "gdg-hanoi",
+          "url": "https://www.facebook.com/gdghanoi",
+          "newTab": true
+        }
+      ]
+    },
+    {
+      "title": "for-partners",
+      "links": [
+        {
+          "text": "partnership-proposition",
+          "url": "",
+          "newTab": true
+        }
+      ]
+    }
+  ],
+  "contactBlock": {
+    "links": [
+      {
+        "text": "contact@devfest.vn",
+        "url": "mailto:contact@devfest.vn"
+      }
+    ]
+  },
+  "hackathon": {
+    "url":"https://madeezi.com"
+  },
+  "tickets": {
+    "url": "http://2event.com/events/630032",
+    "elements": [
+      {
+        "name": "cantho-ticket",
+        "price": 500,
+        "currency": "₴",
+        "starts": "cantho-ticket-starts",
+        "ends": "cantho-ticket-ends",
+        "info": "cantho-ticket-info",
+        "headline": "cantho-ticket-headline",
+        "soldOut": false
+      },
+      {
+        "name": "hochiminh-ticket",
+        "price": 750,
+        "currency": "₴",
+        "starts": "hochiminh-ticket-starts",
+        "ends": "hochiminh-ticket-ends",
+        "info": "hochiminh-ticket-info",
+        "headline": "hochiminh-ticket-headline",
+        "soldOut": false
+      },
+      {
+        "name": "danang-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "danang-ticket-starts",
+        "ends": "danang-ticket-ends",
+        "info": "danang-ticket-info",
+        "headline": "danang-ticket-headline",
+        "soldOut": false
+      },
+      {
+        "name": "hanoi-ticket",
+        "price": 1000,
+        "currency": "₴",
+        "starts": "hanoi-ticket-starts",
+        "ends": "hanoi-ticket-ends",
+        "info": "hanoi-ticket-info",
+        "headline": "hanoi-ticket-headline",
+        "soldOut": false
+      }
+    ]
+  },
+  "teamPageTitle": "team-page-title",
+  "teamPageText": "team-page-text",
+  "statistics": [
+    {
+      "counter": 4000,
+      "caption": "attendees",
+      "sign":"+"
+    },
+    {
+      "counter": 140,
+      "caption": "days",
+      "sign":"+"
+    },
+    {
+      "counter": 15,
+      "caption": "sessions",
+      "sign":"+"
+    },
+    {
+      "counter": 4,
+      "caption": "tracks"
+    }
+  ],
+  "hashtag": "DevFest2016",
+  "social": [
+    {
+      "name": "gplus",
+      "nickname": "106004400398954649440",
+      "url": "https://plus.google.com/b/106004400398954649440/+GDGVietnam"
+    },
+    {
+      "name": "facebook",
+      "nickname": "GDGVietnam",
+      "url": "https://www.facebook.com/gdgviet/"
+    }
+  ],
+  "tweetsSource": "/data/tweets.json",
+  "gallery": {
+    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
+    "photos": {
+      "big": "/images/backgrounds/2015_1.jpg",
+      "small": [
+        "/images/backgrounds/2015_2.jpg",
+        "/images/backgrounds/2015_3.jpg"
+      ]
+    }
+  },
+  "location": {
+    "apiKey": "AIzaSyAl-EDTJ5_uU3zBIX7-wNTu-qSZr1DO5Dw",
+    "link": "https://www.facebook.com/",
+    "pointer": {
+      "latitude": 10.0625862,
+      "longitude": 105.762822,
+      "zoom": 17
+    },
+    "mapCenter": {
+      "latitude": 10.06312,
+      "longitude": 105.765141
+    },
+    "images": [
+      "/images/backgrounds/location_1.jpg",
+      "/images/backgrounds/location_2.jpg",
+      "/images/backgrounds/location_3.jpg"
+    ]
+  },
+  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
+  "callToAction": {
+    "videoTitle": "action-title",
+    "videoId": "DfMnJAzOFng"
+  }
+}

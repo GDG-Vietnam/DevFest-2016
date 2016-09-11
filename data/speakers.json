@@ -1,0 +1,169 @@
+{
+    "1": {
+        "id": 1,
+        "featured": true,
+        "name": "Henry Tao",
+        "title": "Google Developer Expert",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh City, Vietnam",
+        "photoUrl": "/images/people/henry-tao.jpg",
+        "shortBio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud...",
+        "bio": "Mete is a Developer Advocate at Google, currently focused on helping developers with Google Cloud Platform. As a long-time Java and a recent C# developer, he likes to compare the two ecosystems. Prior to Google, he worked at Microsoft, Skype, Adobe, EMC, and Nokia building apps and services on various web, mobile and cloud platforms. Originally from Cyprus, he currently lives in Greenwich, not too far away from the prime meridian.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": ""
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/"
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "featured": true,
+        "name": "Dinh Quang Trung",
+        "title": "Google Developer Expert",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, Vietnam",
+        "photoUrl": "/images/people/dinh-quang-trung.jpg",
+        "shortBio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in...",
+        "bio": "Born with the spirit of an entrepreneur, Yonatan loves to create, build and just do fun stuff in the technology field.\nYonatan is one of the top Israeli mobile developers, who is also a part of an elite worldwide group of Google Developer Experts.\nHis primary expertise is Android and Mobile UX, but is also friendly to backend technologies and people in general :)\nFounded and led 3 startups in the past, recently received funding for his new startup which is on the make.\nCurrently, Yonatan is taking a part of the startup Gett - the largest on-demand transportation, delivery, and logistics company which already raised more than $500M",
+        "tags": [
+            "Web Technologies"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "facebook",
+                "name": "Facebook",
+                "link": "https://www.facebook.com/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/"
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "featured": true,
+        "name": "Huynh Quang Thao",
+        "title": "Google Developer Expert",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, Vietnam",
+        "photoUrl": "/images/people/huynh-quang-thao.jpg",
+        "shortBio": "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
+        "bio": "Sascha Wolter is a professional developer and user experience enthusiast with passion for the Internet of Things in all flavors. He also works as a consultant, trainer, lecturer, keynote-speaker, and author who focusses on understanding, innovation and value. Sascha is the founder of the User Group flashforum.de with more than 100,000 members, and as such he is committed to the interests of the user. After organizing internationally renowned events like beyond tellerrand from 2001 to 2011, he is now board member of the Usability & User Experience committee at the federal association BITKOM. When he is not tinkering with new soft- and hardware for Deutsche Telekom AG \u2013 Connected Home, he likes discovering the world together with his kids in an odd way.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+            {
+                "name": "GDE",
+                "description": "Android Google Developer Expert",
+                "link": "https://developers.google.com/experts/people/"
+            }
+        ],
+        "socials": [
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": ""
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/"
+            },
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "http://www.linkedin.com/"
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "featured": true,
+        "name": "Hieu Hua",
+        "title": "Google Developer Expert",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, Vietnam",
+        "photoUrl": "/images/people/hieu-hua.jpg",
+        "shortBio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
+        "bio": "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of performance optimizations.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/"
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "featured": true,
+        "name": "Le Duc Huy",
+        "title": "Head of Digital Content",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/le-duc-huy.jpg",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Entrepreneurship"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    }
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "title": "organizer",
+    "logos": [
+      {
+        "name": "GDG Vietnam",
+        "url": "https://gdgvietnam.com",
+        "logoUrl": "../images/partners/organizer/gdg-vietnam.png",
+        "height": 25
+      },
+      {
+        "name": "GDG Mien Trung",
+        "url": "",
+        "logoUrl": "../images/partners/organizer/gdg-mientrung.png",
+        "height": 40
+      },
+      {
+        "name": "GDG Hanoi",
+        "url": "",
+        "logoUrl": "../images/partners/organizer/gdg-hanoi.png",
+        "height": 25
+      }
+    ]
+  },
+  {
+    "title": "main-sponsor",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "",
+        "logoUrl": "../images/logos/google.svg",
+        "width": 170
+      }
+    ]
+  },
+  {
+    "title": "partner",
+    "logos": [
+      {
+        "name": "Hoa Sen",
+        "url": "",
+        "logoUrl": "../images/partners/partner/hoasen.png"
+      },
+      {
+        "name": "GDG Hanoi",
+        "url": "",
+        "logoUrl": "../images/partners/partner/vtc-academy.png",
+        "height": 70
+      }
+    ]
+  },
+  {
+    "title": "media-support",
+    "logos": [
+      {
+        "name": "Game Studio",
+        "url": "",
+        "logoUrl": "../images/partners/media-support/gamestudio.png",
+        "height": 50
+      },
+      {
+        "name": "Tek Cafe",
+        "url": "",
+        "logoUrl": "../images/partners/media-support/tekcafe.png",
+        "height": 50
+      },
+      {
+        "name": "Tinh tế",
+        "url": "",
+        "logoUrl": "../images/partners/media-support/tinhte.png",
+        "height": 50
+      },
+      {
+        "name": "Madeezi",
+        "url": "https://madeezi.com",
+        "logoUrl": "../images/partners/media-support/madeezi.svg",
+        "height": 50
+      }
+    ]
+  }
+]

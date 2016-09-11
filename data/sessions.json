@@ -1,0 +1,156 @@
+{
+    "137": {
+        "id": 137,
+        "title": "Afterparty & Networking",
+        "description": "Afterparty is a great time to have some fun and meet new people",
+        "image": "/images/backgrounds/party.jpg"
+    },
+    "136": {
+        "id": 136,
+        "title": "GDG DevFest Vietnam 2016 Opening",
+        "description": "Official start of the conference. Greetings from the organizers, sponsors and partners.",
+        "language": "English",
+        "image": "/images/backgrounds/opening.jpg"
+    },
+    "135": {
+        "id": 135,
+        "title": "Morning coffee",
+        "description": "Coffeeeeeee!",
+        "image": "/images/backgrounds/morning.jpg"
+    },
+    "134": {
+        "id": 134,
+        "title": "Coffee break",
+        "description": "Coffeeeeeee!",
+        "image": "/images/backgrounds/coffee-break.jpg"
+    },
+    "133": {
+        "id": 133,
+        "title": "Lunch",
+        "description": "Foooooooood!",
+        "image": "/images/backgrounds/lunch.jpg"
+    },
+    "132": {
+        "id": 132,
+        "title": "Registration & morning Coffee",
+        "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+        "image": "/images/backgrounds/registration.jpg"
+    },
+    "125": {
+        "id": 125,
+        "title": "Kubernetes in a real world",
+        "description": "TBD",
+        "speakers": [
+            22
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "115": {
+        "id": 115,
+        "title": "Android tool-chain and run-time improvements in N",
+        "description": "Upcoming Android N release will bring some interesting changes to both Android run-time and toolchain. Let's talk about JIT, AOT, hybrid JIT/AOT, Jack, Jill and other acronyms and codenames ;-) In this presentation we'll see how many awesome tricks are needed to make our apps start fast and run smoothly on modern Android devices. Hopefully we'll also answer the most important question -- what's next for Android after Java.",
+        "speakers": [
+            13
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "112": {
+        "id": 112,
+        "title": "Building web apps in 2016",
+        "description": "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
+        "speakers": [
+            10
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Web"
+        ]
+    },
+    "106": {
+        "id": 106,
+        "title": "Fuelio. Success story",
+        "description": "Fuelio. Success story (I'll write more info later)",
+        "speakers": [
+            5
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Android"
+        ]
+    },
+    "105": {
+        "id": 105,
+        "title": "Intro to TensorFlow",
+        "description": "TBD",
+        "speakers": [
+            4
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "104": {
+        "id": 104,
+        "title": "The Physical Web: Context is King!",
+        "description": "It's no longer just about digitizing our environment. It\u2019s rather about pervasive and ubiquitous computing. Almost all everyday things will turn into connected devices soon. This \u201cInternet of Things\u201d will allow the Web to be physically tangible. But what is the value, and how can one prevent IoT applications which just seem to be only more expensive and complicated than conventional solutions. Sascha will discuss the purpose and guide you through this complex topic showing inspiring solutions, tips from practice, and code samples in a variety of technologies from simple Bluetooth Eddystone Beacons to more sophisticated IoT platforms like Eclipse SmartHome.",
+        "speakers": [
+            3
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Web"
+        ]
+    },
+    "103": {
+        "id": 103,
+        "title": "Knock knock! Who's there? Doze.",
+        "description": "Doze mode is just around the corner. \nIntroduced in Marshmallow, as the shy guy that was allowed to step in only when your device went to sleep. ZzzZzzzz\nWith the new N release, Doze mode becomes the rockstar. He rushes into the room with a big shabang by shooting all background services and network requests that forgot to get away. \nHe should no longer be shy. He just shoots and dances on bones of your scheduled alarms, while you wonder why this particular task is no longer running.\nWith the new Doze mode, you require to adapt your app architecture to the new reality.\nOn this talk, we will learn how to survive Doze mode using Job Scheduler, Content Provider and stay in one piece.",
+        "speakers": [
+            2
+        ],
+        "language": "English",
+        "complexity": "Intermediate",
+        "tags": [
+            "Android"
+        ]
+    },
+    "102": {
+        "id": 102,
+        "title": "Hands-on gRPC experience building your own multiplayer game client",
+        "description": "Do you remember the game Simon says from the 80s? I don\u2019t know about you, but I know many that spent hours trying to press those specific sequences of red, green, blue and yellow buttons in the correct order. But why play on your own? We\u2019ve implemented a gRPC server that allows you to play Simon with other players over the internet!\n\nIn this workshop we will dive into the toolset and libraries to build your very own Simon Says client for this server. We will have a message description in Protocol Buffers format and some stub code in several languages ready for you to play with. The goal for this workshop is for you to have a working client that you can use to play (and beat!) other attendees of the workshop.",
+        "speakers": [
+            1
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ]
+    },
+    "101": {
+        "id": 101,
+        "title": "Windows and .NET on Google Cloud Platform ",
+        "description": "In this session, we will take a look at Windows and .NET support on Google Cloud Platform. We will build a simple ASP.NET app, deploy to Google Compute Engine and take a look at some of the tools and APIs available to .NET developers on Google Cloud Platform. ",
+        "speakers": [
+            1
+        ],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Cloud"
+        ]
+    }
+}
