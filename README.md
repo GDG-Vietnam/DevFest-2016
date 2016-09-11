@@ -80,7 +80,7 @@ H2/push-compatible servers or to clients that do not support H2/Push.
 Going to use the template? Go on! The only thing we ask - let us know at with a 
 pull request, so we can include you in this list.
 
-| [GDG DevFest Vietnam](http://devfest.gdg.org.ua) |
+| [GDG DevFest Ukraine](http://devfest.gdg.org.ua) |
 | :------------ |
 | [GDG DevFest Sao Paulo](http://sp.devfest.com.br)  |
 | [GDG DevFest Hamburg 2015](http://devfest.de)  |
