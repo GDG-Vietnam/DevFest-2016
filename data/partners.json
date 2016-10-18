@@ -34,6 +34,23 @@
     ]
   },
   {
+    "title": "co-sponsor",
+    "logos": [
+      {
+        "name": "IPP",
+        "url": "",
+        "logoUrl": "../images/partners/co-sponsor/ipp.png",
+        "height": 50
+      },
+      {
+        "name": "mobiistar",
+        "url": "",
+        "logoUrl": "../images/partners/co-sponsor/mobiistar.png",
+        "height": 50
+      }
+    ]
+  },
+  {
     "title": "partner",
     "logos": [
       {
@@ -42,7 +59,33 @@
         "logoUrl": "../images/partners/partner/hoasen.png"
       },
       {
-        "name": "GDG Hanoi",
+        "name": "Mekong Delta",
+        "url": "",
+        "logoUrl": "../images/partners/partner/mekong.jpg",
+        "height": 80
+      },
+      {
+        "name": "ETM",
+        "url": "",
+        "logoUrl": "../images/partners/partner/etm.jpg"
+      },
+      {
+        "name": "CUSC",
+        "url": "",
+        "logoUrl": "../images/partners/partner/cusc-logo.png"
+      },
+      {
+        "name": "Y Club",
+        "url": "",
+        "logoUrl": "../images/partners/partner/y-club-logo.png"
+      },
+      {
+        "name": "KVIP",
+        "url": "",
+        "logoUrl": "../images/partners/partner/kvip-logo.png"
+      },
+      {
+        "name": "VTC Academy",
         "url": "",
         "logoUrl": "../images/partners/partner/vtc-academy.png",
         "height": 70

@@ -33,6 +33,11 @@
         margin: 15px;
       }
 
+      ticket-element:hover {
+        transform: scale(1.05);
+        transition: transform .2s ease-in-out;
+      }
+
       paper-button {
         font-size: 0.9em;
       }
@@ -60,18 +65,24 @@
 
       @media (min-width: 601px) {
         ticket-element {
-          max-width: 350px;
+          max-width: 225px;
+        }
+      }
+      @media (min-width: 769px) {
+        .container {
+          max-width: 1024px;
         }
       }
     </style>
 
     <div class="container">
       <div class="block-header">
-        <h4 class="heading">[[localize('tickets-title')]]</h4>
+        <h4 class="heading ticket-title">[[localize('tickets-title')]]</h4>
       </div>
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.data.tickets.elements]]" as="ticket">
-          <ticket-element
+          <a href="[[localize(ticket.link)]]">
+            <ticket-element
             type="[[localize(ticket.name)]]"
             price="[[ticket.price]]"
             currency="[[ticket.currency]]"
@@ -82,12 +93,13 @@
             sold-out="[[ticket.soldOut]]"
             sold-out-text="[[localize('sold-out-tickets')]]"
           ></ticket-element>
+          </a>
         </template>
       </div>
       <div class="details">[[localize('tickets-details')]]</div>
-      <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+      <!-- <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
         <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
-      </a>
+      </a> -->
     </div>
 
   </template>

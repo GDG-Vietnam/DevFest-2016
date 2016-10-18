@@ -124,7 +124,7 @@
     ]
   },
   "hackathon": {
-    "url":"https://madeezi.com"
+    "url":"http://hackathon.devfest.vn"
   },
   "tickets": {
     "url": "http://2event.com/events/630032",
@@ -137,6 +137,7 @@
         "ends": "cantho-ticket-ends",
         "info": "cantho-ticket-info",
         "headline": "cantho-ticket-headline",
+        "link": "cantho-ticket-link",
         "soldOut": false
       },
       {
@@ -147,6 +148,7 @@
         "ends": "hochiminh-ticket-ends",
         "info": "hochiminh-ticket-info",
         "headline": "hochiminh-ticket-headline",
+        "link": "hochiminh-ticket-link",
         "soldOut": false
       },
       {
@@ -157,6 +159,7 @@
         "ends": "danang-ticket-ends",
         "info": "danang-ticket-info",
         "headline": "danang-ticket-headline",
+        "link": "danang-ticket-link",
         "soldOut": false
       },
       {
@@ -167,6 +170,7 @@
         "ends": "hanoi-ticket-ends",
         "info": "hanoi-ticket-info",
         "headline": "hanoi-ticket-headline",
+        "link": "hanoi-ticket-link",
         "soldOut": false
       }
     ]

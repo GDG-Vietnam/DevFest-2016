@@ -165,5 +165,55 @@
                 "link": "plus.google.com/"
             }
         ]
+    },
+    "6": {
+        "id": 6,
+        "featured": true,
+        "name": "George Nguyen",
+        "title": "Founder of GDG Vietnam",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/george-nguyen.jpg",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Founder"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "featured": true,
+        "name": "Le Huynh Kim Ngan",
+        "title": "Co-founder of GDG Vietnam",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/kim-ngan.jpg",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Co-Founder"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
     }
 }

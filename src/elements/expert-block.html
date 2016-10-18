@@ -1,0 +1,105 @@
+<link rel="import" href="../../bower_components/polymer/polymer.html">
+
+<link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
+<link rel="import" href="../../bower_components/iron-image/iron-image.html">
+<link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
+
+<link rel="import" href="../../bower_components/paper-button/paper-button.html">
+<link rel="import" href="../../bower_components/paper-item/paper-item.html">
+
+<dom-module id="expert-block">
+<template>
+	<style include="shared-styles">
+      :host {
+        display: block;
+        background: #fff;
+      }
+
+      .experts-wrapper {
+        @apply(--layout-horizontal);
+        @apply(--layout-wrap);
+      }
+      
+      .experts-wrapper p {
+        color:var(--default-primary-color);
+        max-width: 80%;
+        text-align: center;
+        margin:auto;
+      }
+
+      .post {
+        @apply(--layout-flex-5);
+      }
+
+      .post:not(:first-of-type) {
+        margin-top: 30px;
+      }
+
+      .title {
+        color: var(--default-primary-color);
+        font-size: 24px;
+        line-height: 1.2
+      }
+
+      a {
+        color: var(--default-primary-color);
+        font-size: 16px;
+      }
+
+      .block-link {
+        margin-top: 25px;
+        display: block;
+        color: inherit;
+        font-size: .9em;
+      }
+
+      .expert-button-panel {
+      	text-align: center;
+      }
+
+      @media (min-width: 601px) {
+        .experts-wrapper {
+          @apply(--layout-horizontal);
+        }
+
+        .post:not(:first-of-type) {
+          margin-top: 0;
+        }
+
+        .post-divider {
+          @apply(--layout-flex);
+        }
+      }
+    </style>
+    <div class="container">
+      <h4 class="heading text-center">Google Developer Expert !</h4>
+      <div class="experts-wrapper">
+        <p>
+          You can join us by being referred to the program by a Google employee or partners authorized by the Google Developers team and have to fulfill the qualifying criteria listed below. If you are interested in joining us, make sure you reach out to your local Google contact and/or active Expert during events or gatherings to discuss your eligibility.
+        </p>
+      </div>
+      <div class="expert-button-panel">
+      	<a href="https://docs.google.com/forms/d/1viYQddRYwLws57sBwg8-MrnzJwyKaQvvl4566izYZF8" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick" class="block-link">
+	        <paper-button class="buy-button" raised>[[localize('become-gde')]]</paper-button>
+	      </a>
+      </div>
+    </div>
+</template>
+<script>
+    (function () {
+      'use strict';
+
+      Polymer({
+
+        is: 'expert-block',
+
+        behaviors: [
+          HOVERBOARD.LocalizeBehavior,
+          HOVERBOARD.UtilsBehavior
+        ]
+
+      });
+
+    }());
+  </script>
+</dom-module>
