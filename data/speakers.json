@@ -215,5 +215,130 @@
                 "link": "plus.google.com/"
             }
         ]
+    },
+    "8": {
+        "id": 8,
+        "featured": true,
+        "name": "Andrew Pope",
+        "title": "Product Manager at Anduin Transactions",
+        "company": "",
+        "companyLogo": "/images/logos/aduin.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/andrew-pope.png",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Management"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "featured": true,
+        "name": "Cao Duy Vu",
+        "title": "Android Developer",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/cao-duy-vu.jpg",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "featured": true,
+        "name": "Hien Gaby",
+        "title": "Account Manager",
+        "company": "",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/hien-gaby.png",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Business"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "featured": true,
+        "name": "Nguyen Hoang Chuong",
+        "title": "Founder of TekCafe",
+        "company": "",
+        "companyLogo": "/images/logos/gdg-vietnam.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/hoang-chuong.jpg",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Entrepreneurship"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "featured": true,
+        "name": "Van Vuong",
+        "title": "AdMob Monetization Specialist",
+        "company": "",
+        "companyLogo": "/images/logos/google.svg",
+        "country": "Ho Chi Minh, City",
+        "photoUrl": "/images/people/van-vuong.png",
+        "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+        "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
+        "tags": [
+            "Business"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "plus.google.com/"
+            }
+        ]
     }
 }
