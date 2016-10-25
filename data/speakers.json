@@ -219,16 +219,16 @@
     "8": {
         "id": 8,
         "featured": true,
-        "name": "Andrew Pope",
-        "title": "Product Manager at Anduin Transactions",
+        "name": "Nguyen Nhat Tuyen",
+        "title": "Game Studios Director at VNG",
         "company": "",
-        "companyLogo": "/images/logos/aduin.svg",
+        "companyLogo": "/images/logos/vngLogo.png",
         "country": "Ho Chi Minh, City",
         "photoUrl": "/images/people/andrew-pope.png",
         "shortBio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
         "bio": "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
         "tags": [
-            "Management"
+            "Business"
         ],
         "badges": [
 
